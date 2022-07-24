@@ -1,9 +1,9 @@
 package borsato.dio.bank;
 
-import borsato.dio.banco.interfaces.IAccount;
-import borsato.dio.banco.models.Account;
-import borsato.dio.banco.models.CheckingAccount;
-import borsato.dio.banco.models.SavingsAccount;
+import borsato.dio.bank.interfaces.IAccount;
+import borsato.dio.bank.models.Account;
+import borsato.dio.bank.models.CheckingAccount;
+import borsato.dio.bank.models.SavingsAccount;
 
 /**
  *

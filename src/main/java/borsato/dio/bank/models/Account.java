@@ -1,7 +1,7 @@
-package borsato.dio.banco.models;
+package borsato.dio.bank.models;
 
-import borsato.dio.banco.exceptions.InsufficientBalanceException;
-import borsato.dio.banco.interfaces.IAccount;
+import borsato.dio.bank.exceptions.InsufficientBalanceException;
+import borsato.dio.bank.interfaces.IAccount;
 
 /**
  *

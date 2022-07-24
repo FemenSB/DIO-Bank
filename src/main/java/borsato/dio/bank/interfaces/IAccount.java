@@ -2,9 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
-package borsato.dio.banco.interfaces;
+package borsato.dio.bank.interfaces;
 
-import borsato.dio.banco.models.Account;
+import borsato.dio.bank.models.Account;
 
 /**
  *
